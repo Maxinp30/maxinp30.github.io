@@ -1,0 +1,44 @@
+.game-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.player {
+    margin: 20px;
+    padding: 10px;
+    border: 2px solid #000;
+    border-radius: 10px;
+}
+
+.hand {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.card {
+    width: 50px;
+    height: 80px;
+    margin: 5px;
+    border: 1px solid #000;
+    border-radius: 5px;
+    text-align: center;
+    line-height: 80px;
+    font-size: 20px;
+}
+
+.pile {
+    width: 50px;
+    height: 80px;
+    margin: 20px;
+    border: 2px solid #000;
+    border-radius: 10px;
+    text-align: center;
+    line-height: 80px;
+    font-size: 20px;
+}
+
+
+
+
