@@ -369,4 +369,9 @@ nav {
 
  }
 
+@media (max-width: 768px) {
+  /* Ajustes de estilo para pantallas pequeñas */
+}
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
